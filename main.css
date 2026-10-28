@@ -1,0 +1,293 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 1440px;
+  height: 6856px;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.head-con {
+  width: 146px;
+  height: 52px;
+  margin-top: 41px;
+  margin-left: 150px;
+
+}
+
+.head-con-1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 41px;
+  width: 862px;
+  height: 42px;
+  button{
+    width: 111px;
+height: 42px;
+background-color: white;
+border-radius: 11px;
+border-width: 2px;
+border-color: #717CFF;
+  }
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 70px;
+  width: 862px;
+  height: 42px;
+  list-style-type: none;
+
+}
+
+
+main {
+  button {
+    width: 262px;
+    height: 64px;
+    border-radius: 20px;
+    margin-left: 148px;
+    margin-top: 42px;
+    background-color: #717CFF;
+    color: white;
+  }
+}
+
+
+.header-text {
+  width: 455px;
+  height: 200px;
+  gap: 50px;
+  margin-top: 233px;
+  margin-left: 148px;
+  font-size: x-large;
+
+  span {
+    color: #5682FE;
+  }
+}
+
+.main-text {
+  display: flex;
+  width: 632px;
+  height: 80px;
+  margin-top: -70px;
+  margin-left: 149px;
+  color: #7D7D7D;
+  font-size: large;
+}
+
+
+.main-img {
+  width: 1049px;
+  height: 728px;
+  margin-left: 900px;
+  margin-top: -370px;
+  
+}
+
+.main-img-2 {
+  display: flex;
+  align-items: start;
+  margin-left: 158px;
+  margin-top: -250px;
+  gap: 25px;
+  
+}
+
+section {
+  width: 1500px;
+  height: 450px;
+  background-color: #FAFAFA;
+  margin-top: 55px;
+
+}
+
+.section-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #7D7D7D;
+  margin-top: 50px;
+}
+
+.section-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+
+}
+
+.section-img-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 120px;
+}
+
+aside {}
+
+.aside-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.aside-text-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #7D7D7D;
+  font-size: large;
+  margin-top: 25px;
+}
+
+.aside-text-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #7D7D7D;
+  font-size: large;
+  margin-top: 10px;
+}
+
+.aside-con {
+  width: 1460px;
+  height: 80px;
+}
+
+.aside-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1500px;
+  height: 351px;
+  border-radius: 15px;
+  margin-top: -900px;
+}
+
+.aside-img-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 90px;
+}
+
+.aside-con {
+  width: 1440px;
+  height: 1120px;
+
+
+}
+
+.aside-text-3 {
+  width: 1440px;
+  height: 1500px;
+  margin-top: 100px;
+
+}
+
+.as-con {
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.as-con-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  margin-top: 30px;
+}
+
+.container-1 {
+  margin-top: 120px;
+
+  p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    color: #7D7D7D;
+    margin-top: 8px;
+  }
+}
+
+.as-img {
+  margin-top: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.as-img-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 35px;
+}
+
+
+article{
+width: 1440px;
+height: 892px;
+
+}
+
+.art-con{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 190px;
+  
+
+  }
+
+
+.article-img{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 46px;
+  margin-top: 80px;
+}
+.art-text{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+  margin-top: 25px;
+  color: #7D7D7D;
+}
+
+.art-text-1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+  margin-top: 10px;
+  color: #7D7D7D;
+}
+.img-5{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+   margin-top: 70px;
+}
